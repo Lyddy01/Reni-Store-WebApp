@@ -1,0 +1,686 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Archivo", sans-serif;
+}
+p{
+  margin: 0 !important;
+  padding: 0;
+}
+
+.blue{
+  width:100%;
+  justify-content: center;
+  align-content: center;
+  display: flex;
+  background-color:rgb(6, 6, 105) ;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color:white;
+}
+
+.bluehorn{
+  width:90%;
+}
+
+
+
+.combined{
+  display: flex;
+}
+
+
+.great{
+  
+  font-size: 18px;
+
+   
+}
+
+.great img{
+  width:30px;
+  border:none;
+  background-color: rgba(106, 98, 134, 0.827);
+  border-radius: 3px;
+     
+}
+
+.fa-bullhorn{
+    background-color: rgb(83, 123, 255);
+}
+
+
+.mainnav{
+      display: flex;
+      justify-content: center;
+      align-content: center;
+      width:100%;
+      margin-top: 20px;
+}
+
+
+.subnav{
+         width:90%; 
+
+}
+
+.white{
+   display: flex;
+   justify-content: space-between;
+}
+
+.Lydia1{
+  width:100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+.Lydia2{
+    width:90%;
+
+}
+.form{
+  width: 100%;
+}
+.namo{
+   width: 45%;
+}
+.malli{
+   width: 45%; 
+}
+.middle{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.words{
+  width:48%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  
+  
+ 
+}
+
+.words p{
+  text-align: left !important;
+
+}
+
+
+
+.heading h1{
+  font-size: 40px;
+  font-weight: 800;
+  color: rgb(48, 48, 48);
+
+}
+
+
+.best{
+  font-size: 20px;
+  font-weight: lighter;
+  margin-top: 10px;
+  color: rgba(48, 48, 48, 0.719);
+  text-align: left !important;
+}
+
+
+
+
+
+.lists{
+  font-size: 15px;
+
+}
+
+
+
+.icon{
+  display: flex;
+ 
+  
+ 
+}
+
+.fa-bullseye{
+  color: blue;
+  margin-right: 5px;
+
+
+}
+
+.lady{
+  width:48%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column;
+  
+}
+
+
+.lady img{
+  width:70%;
+}
+
+.gbogbo{
+  width:100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.myform{
+  display: flex;
+  justify-content: space-between; 
+   
+}
+.long{
+  color: #093092;
+    border: none;
+    background-color: #cfd9f0;
+    border-radius: 5px;
+    font-family: "Archivo",sans-serif;
+    font-size: 14px;
+    box-shadow: 0 9px 15px -6px rgb(0 0 0 / 39%);
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    outline: none !important;
+
+}
+
+
+
+
+.get{
+  width:100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.early{
+  border:none;
+  background-color: #093092;
+  border-radius: 5px;
+  width: 40%;
+  height: 40px;
+  
+  margin-top: 15px;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+}
+
+
+.coming {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    font-size: 17px;
+    
+  
+}
+
+
+.store{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 5px;
+  gap:20px;
+  margin-top: 15px;
+
+
+}
+.playstore{
+  width: 40%;
+  height:45px;
+  padding-top: 5px;
+  background-color: #093092;
+  color: #cfd9f0;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  border: 1px solid #093092;
+  justify-content: center;
+
+
+}
+
+.store-inner p{
+  font-weight: lighter;
+  font-size: 14px;
+  text-align: left;
+  margin-bottom: 0px;
+  
+
+}
+
+
+
+.appstore{
+  width: 40%;
+  height: 45px;
+  background-color: #093092;
+  padding-top: 5px  ;
+  color: #cfd9f0;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  border: 1px solid #093092;
+  justify-content: center;
+}
+
+.google{
+  width: 13%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+
+.socialmedia{
+  display: flex;
+    align-items:center;
+    justify-content: center;
+    width: 100%;
+}
+
+
+.media{
+  width:90%;
+}
+
+.soc{
+  display: flex;
+  align-items:flex-end;
+  justify-content: flex-end;
+  font-size: 20px;
+   color: #093092;
+ }
+
+ .soc i {
+  margin-right: 15px;
+ }
+
+ 
+
+
+.coal{
+  width:100%;
+   display: flex; 
+   justify-content: center; 
+   align-items: center; 
+
+}
+
+.fire{
+  width:90%;
+  
+    
+}
+
+.heat{
+    border-style: solid;
+    border-color: grey;
+    border-image: initial;
+}
+
+
+
+.footer{
+  width:100%;
+  display: flex; 
+   justify-content: center; 
+   align-items: center;
+
+}
+
+.foota{
+  width:90%;
+    
+}
+
+.foot{
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.copy{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+
+}
+
+
+.private{
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+
+
+.dropdowns{
+   display: inline-block;
+}
+
+.dropdowns button{
+  border: none;
+  background-color: transparent;
+  font-size: 20px;
+  text-transform: capitalize;
+}
+
+.dropdowns a:hover{
+  background-color: #093092;
+  color:white;
+  text-decoration: none;
+}
+.drpdwn{
+  display:none;
+  overflow: auto;
+  box-shadow: 0  9px  15px -6px rgb(0 0 0 / 39%);
+  position:absolute;
+}
+
+.drpdwn a{
+  
+  width:100px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height:50px;
+  color:black;
+  font-weight: 200;
+  font-size: 15px;
+
+}
+
+.dropdowns:hover .drpdwn{
+  display:block;
+  
+
+}
+
+
+/* media query */
+
+@media(max-width:950px){
+
+  .lady{
+        display: none;
+  }
+
+  .words{
+    width:100%;
+
+  }
+
+
+  .subnav{
+    width:80%;
+  }
+
+  .Lydia2{
+     width:80%;
+  }
+  .soc{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+  
+    
+  }
+
+  .best{
+    font-size: 25px;
+
+  }
+
+  .lists{
+    font-size: 20px;
+  }
+
+
+
+  .private{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: flex-end;
+    gap:0px;
+  }
+
+}
+
+/* 750 */
+@media(max-width:700px){
+
+  .combined{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .subnav{
+    width:65%;
+ }
+
+  
+
+  .footer{
+    width:100%;
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    font-size: 14px;
+  
+  }
+  
+  .foota{
+    width:80%;   
+  }
+
+  .heading h1{
+      
+    font-size: 30px;
+    font-weight: 800;
+ }
+  .private{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    align-items: flex-end;
+     gap:0px;
+  }
+
+  .copy{
+    display: flex;
+    align-items: flex-end;
+  }
+
+
+  .myform{
+    flex-direction: column;
+  }
+
+  .namo{
+    width:100%;
+  }
+
+  .malli{
+    width:100%;
+  }
+
+  
+
+
+}
+
+
+
+
+@media(max-width:650px){
+
+
+  .copy{
+      align-items: center;
+      justify-content: center;
+
+  }
+
+.private{
+  align-items: center;
+  gap: 10px;
+}
+
+.foot{
+  flex-direction: column-reverse;
+  gap:10px;
+}
+
+
+
+
+ 
+
+}
+
+
+/* 560 */
+@media(max-width:560px){
+
+      .combined{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+     .subnav{
+        width:65%;
+     }
+
+    .coal{
+      display: none;
+    }
+
+    .heading h1{
+      
+       font-size: 30px;
+       font-weight: 800;
+    }
+
+    .fa-bullseye{
+      color:#8989f3; ;
+    }
+    
+    .best{
+      font-size: 20px;
+        font-weight: lighter;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        color: rgba(48, 48, 48, 0.719);
+        text-align: left !important 
+    }
+
+    .lists{
+      font-size: 15px;
+      
+    }
+
+    .icon{
+         margin-bottom: 10px;
+    }
+
+    .get{
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+
+    .coming{
+      font-weight: 400;
+    }
+
+    .myform{
+      flex-direction: column;
+    }
+
+    .namo{
+      width:100%;
+    }
+
+    
+    
+    {
+      width:100%;
+    }
+
+    .early{
+      width:100%;
+      text-align: center;
+      padding:10px;
+    }
+
+    .playstore{
+       width: 50%;
+    }
+
+    .appstore{
+      width:50%;
+
+    }
+
+    .footer{
+       margin-top: 20px;
+    }
+}
+
+@media(max-width:390px){
+
+
+  .great{
+    text-align: center;
+  }
+  
+  .subnav{
+     width:80%;
+  }
+      
+  .store{
+    display: flex;
+    flex-direction: column;
+}
+
+.playstore{
+    width:100%;
+}
+
+.google{
+  width:10%;
+}
+
+.appstore{
+  width:100%;
+}
+
+.copy p{
+  text-align: center;
+}
+  
+}
+  
