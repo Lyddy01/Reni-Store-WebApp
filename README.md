@@ -1,1 +1,1 @@
-# Clothing-Store-App
+# Reni-Store-Web App
